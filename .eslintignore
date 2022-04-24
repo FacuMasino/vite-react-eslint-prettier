@@ -1,2 +1,4 @@
 dist
 
+# Avoid ESLint devdependencies error
+vite.config.js
